@@ -106,3 +106,8 @@ AI-powered Smart Healthcare and Medication Reminder System for Senior Citizens
 If you like my projects, consider giving them a ⭐.
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saivedant09-gif/saivedant09-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
