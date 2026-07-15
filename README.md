@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Vedant</h1>
+<h1 align="center">Hi 👋, I'm R Sai Vedant</h1>
 
 <h3 align="center">
 Computer Science (Data Science) Student • AI Enthusiast • Full Stack Learner
@@ -81,7 +81,7 @@ AI-powered Smart Healthcare and Medication Reminder System for Senior Citizens
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saivedant09//">
+<a href="https://www.linkedin.com/in/saivedant09/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
